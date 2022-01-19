@@ -194,6 +194,6 @@ int main()
                 display(id,name,grade,used);
                 break;
         }
-        
+       
     }
 }
